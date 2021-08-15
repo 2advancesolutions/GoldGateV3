@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/landrick-angular",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
