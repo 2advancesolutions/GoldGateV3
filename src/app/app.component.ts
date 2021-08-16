@@ -7,7 +7,7 @@ import { Router, NavigationEnd } from '@angular/router';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Church Of Faith-angular';
+  title = 'Faith Connect-angular';
 
   constructor(private router: Router) {
     /**
@@ -17,7 +17,6 @@ export class AppComponent {
       if (event instanceof NavigationEnd) {
         window['Unicons']['refresh']();
       }
-
       if (!(event instanceof NavigationEnd)) {
         return;
       }

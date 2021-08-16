@@ -24,57 +24,57 @@ export class ForumsComponent implements OnInit {
    */
   formData: form[] = [
     {
-      title: "Introductions: Church Of Faith",
-      content: "Start working with Church Of Faith that can provide everything you need to generate awareness, drive traffic, connect.",
+      title: "Introductions: Faith Connect",
+      content: "Start working with Faith Connect that can provide everything you need to generate awareness, drive traffic, connect.",
       post: "Calvin",
       topic: 3,
       comments: 5
     },
     {
       title: "Web Designing and Developing",
-      content: "Start working with Church Of Faith that can provide everything you need to generate awareness, drive traffic, connect.",
+      content: "Start working with Faith Connect that can provide everything you need to generate awareness, drive traffic, connect.",
       post: "George",
       topic: 3,
       comments: 5
     },
     {
       title: "Hosting and providers",
-      content: "Start working with Church Of Faith that can provide everything you need to generate awareness, drive traffic, connect.",
+      content: "Start working with Faith Connect that can provide everything you need to generate awareness, drive traffic, connect.",
       post: "Parthiv",
       topic: 3,
       comments: 5
     },
     {
       title: "SEO starter guide",
-      content: "Start working with Church Of Faith that can provide everything you need to generate awareness, drive traffic, connect.",
+      content: "Start working with Faith Connect that can provide everything you need to generate awareness, drive traffic, connect.",
       post: "David",
       topic: 3,
       comments: 5
     },
     {
       title: "Troubleshooting and managing issues",
-      content: "Start working with Church Of Faith that can provide everything you need to generate awareness, drive traffic, connect.",
+      content: "Start working with Faith Connect that can provide everything you need to generate awareness, drive traffic, connect.",
       post: "Tiger",
       topic: 3,
       comments: 5
     },
     {
       title: "Backup and restore",
-      content: "Start working with Church Of Faith that can provide everything you need to generate awareness, drive traffic, connect.",
+      content: "Start working with Faith Connect that can provide everything you need to generate awareness, drive traffic, connect.",
       post: "Cristina",
       topic: 3,
       comments: 5
     },
     {
       title: "Errors and how to fix them",
-      content: "Start working with Church Of Faith that can provide everything you need to generate awareness, drive traffic, connect.",
+      content: "Start working with Faith Connect that can provide everything you need to generate awareness, drive traffic, connect.",
       post: "Miriam",
       topic: 3,
       comments: 5
     },
     {
       title: "Template features & Services",
-      content: "Start working with Church Of Faith that can provide everything you need to generate awareness, drive traffic, connect.",
+      content: "Start working with Faith Connect that can provide everything you need to generate awareness, drive traffic, connect.",
       post: "Janalia",
       topic: 3,
       comments: 5
