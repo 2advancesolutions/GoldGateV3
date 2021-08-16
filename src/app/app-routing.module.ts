@@ -164,7 +164,7 @@ const routes: Routes = [
     path: '',
     component: MasterPageComponent,
     children: [
-      { path: '', component: IndexComponent },
+      { path: '', component:  IndexSocialMarketingComponent },
       { path: 'account-messages', component: AccountMessagesComponent },
       { path: 'account-members', component: AccountMembersComponent },
       { path: 'account-payments', component: AccountPaymentsComponent },
@@ -181,7 +181,7 @@ const routes: Routes = [
       { path: 'helpcenter-guides', component: HelpcenterGuidesComponent },
       { path: 'helpcenter-overview', component: HelpcenterOverviewComponent },
       { path: 'helpcenter-support-request', component: HelpcenterSupportRequestComponent },
-      { path: 'index', component: IndexComponent },
+      { path: 'index', component: IndexSocialMarketingComponent },
       { path: 'index-agency', component: IndexAgencyComponent },
       { path: 'index-apps', component: IndexAppsComponent },
       { path: 'index-blog', component: IndexBlogComponent },
