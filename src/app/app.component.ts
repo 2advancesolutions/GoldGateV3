@@ -7,7 +7,7 @@ import { Router, NavigationEnd } from '@angular/router';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'landrick-angular';
+  title = 'Church Of Faith-angular';
 
   constructor(private router: Router) {
     /**
