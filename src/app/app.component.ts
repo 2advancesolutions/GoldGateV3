@@ -17,7 +17,6 @@ export class AppComponent {
       if (event instanceof NavigationEnd) {
         window['Unicons']['refresh']();
       }
-
       if (!(event instanceof NavigationEnd)) {
         return;
       }
