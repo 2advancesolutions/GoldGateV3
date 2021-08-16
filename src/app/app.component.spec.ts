@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'Church Of Faith-angular'`, () => {
+  it(`should have as title 'Faith Connect-angular'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('Church Of Faith-angular');
+    expect(app.title).toEqual('Faith Connect-angular');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('Church Of Faith-angular app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('Faith Connect-angular app is running!');
   });
 });
