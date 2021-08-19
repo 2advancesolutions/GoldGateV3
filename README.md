@@ -1,4 +1,4 @@
-# Landrick - Angular 11 Saas & Software Landing Page Template
+# Reginald Bellas- Angular 11 Saas & Software Landing Page Template
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
